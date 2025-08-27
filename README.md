@@ -17,7 +17,7 @@
 
 <br/>
 
-## Tecnologias & Ferramentas
+## 📚Tecnologias & Ferramentas
 <div style="display: inline_block">
   <img aligh="center" alt="Pedro-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img aligh="center" alt="Pedro-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"/>
@@ -33,6 +33,8 @@
 
 ## 📋Descrição
 Meu nome é Pedro Henrique Macedo Cruz, estudante de Ciência da Computação atualmente cursando o Oitavo Semestre
+
+<br/>
 
 ## 📞Contatos
 <div>
